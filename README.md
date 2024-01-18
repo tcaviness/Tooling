@@ -4,7 +4,6 @@ This is a file that you can put in the memory of the Raspberry Pico W or the ESP
 call the functions. 
 
 ![Control KeyPad](/Screenshot.png)
-
 ~~~
 def control():
  control = """<!DOCTYPE html>
@@ -75,6 +74,12 @@ def control():
   </body>
   </html>"""
 return control
+~~~
+
+![Control KeyPad](/esp8266.png)
+
+~~~
+
 ~~~
 
 
