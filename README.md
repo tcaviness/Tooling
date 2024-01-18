@@ -76,7 +76,7 @@ def control():
 return control
 ~~~
 
-![Control KeyPad](/ESP8266 Web Server.png)
+![Control KeyPad](/ESP8266.png)
 
 ~~~
 def robot(): 
